@@ -1,2 +1,2 @@
 # Amazon-Clone
-THis is the Amzon CLone Static WEb Page using HTML CSS 
+This is the Amazon Clone Static WEb Page using HTML CSS 
